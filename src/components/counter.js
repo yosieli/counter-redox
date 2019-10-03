@@ -39,10 +39,6 @@ class Counter extends Component {
   }
 }
 
-const handleChange = () => {
-      
-}
-
 
 const mapStateToProps = (state) => {
   return {
